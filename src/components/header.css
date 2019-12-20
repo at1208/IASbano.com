@@ -1,0 +1,41 @@
+.a1{
+ height: 60px;
+ background: #4b6cb7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ margin-bottom: 5px;
+  width: 100%
+}
+
+.a2{
+margin-top: 10px;
+margin-right: 3px;
+padding: 7px;
+ 
+
+}
+
+.a4{
+
+}
+.a6{
+  height: 430px;
+}
+
+@media (max-width: 767.98px) {
+  .a6{
+     height: 200px;
+  }
+}
+.b7{
+  margin: 30px;
+}
+ .a8{
+   font-size: 40px;
+   font-weight: lighter;
+   color: white;
+ }
+.a7{
+  font-size: 30px;
+}

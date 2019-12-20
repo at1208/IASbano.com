@@ -1,0 +1,24 @@
+.b1{
+  height: 150px;
+}
+.b2{
+  font-size: 30px;
+  padding: 10px;
+  color: #4527a0;
+
+}
+.b3{
+  margin: 10px;
+   border-radius: 16px;
+}
+.b5{
+  margin-top: 20px;
+}
+.b6{
+  padding: 5px;
+  font-size: 15px;
+}
+.b3:hover{
+  background-color: #e0f7fa;
+}
+ 

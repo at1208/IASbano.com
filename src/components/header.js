@@ -1,18 +1,23 @@
 import React from 'react';
 import './header.css'
- import { Carousel } from 'antd';
+ import { Carousel} from 'antd';
+ import { MdSearch } from "react-icons/md";
  import 'antd/dist/antd.css';
-import SearchBar from './serchbar'
+
+import Fade from 'react-reveal/Fade';
 
 const Header  = () => {
   return <div className='c1'>
   <div className='a1 container-fluid'>
+   <Fade left>
 <div className='text-center a8'><i class="fa fa-graduation-cap" style={{ "margin": "7px"}}></i>IAS<span className='a7'>Bano</span>
-<button className='float-right btn-sm btn-info a2'>Login</button>
+
+<button className='float-right btn-sm btn-info a2'>Page4</button>
 <button className='float-right btn-sm btn-info a2 '>Page3</button>
 <button className='float-right btn-sm btn-info a2'>Page2</button>
 <button className='float-right btn-sm btn-info a2'>Page1</button>
 </div>
+      </Fade>
   </div>
 
 
@@ -34,9 +39,7 @@ const Header  = () => {
     <span className="sr-only">Next</span>
   </a>
 </div>
-    <div className='b7 float-right'>
-  <SearchBar />
-  </div>
+
   </div>
 }
 export default Header;

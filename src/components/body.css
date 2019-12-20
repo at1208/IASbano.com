@@ -21,4 +21,15 @@
 .b3:hover{
   background-color: #e0f7fa;
 }
- 
+
+.d1{
+  height: 50px;
+  width: 300px;
+   padding: 10px;
+   font-size: 20px;
+   font-weight: lighter;
+}
+.d2{
+  font-size: 50px;
+  background-color: #b0bec5
+}

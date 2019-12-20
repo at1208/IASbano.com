@@ -12,7 +12,7 @@ background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, F
 margin-top: 10px;
 margin-right: 3px;
 padding: 7px;
- 
+
 
 }
 
@@ -27,6 +27,17 @@ padding: 7px;
   .a6{
      height: 200px;
   }
+  .a1{
+    height: 120px;
+    margin-top: 0px;
+    margin-right: 3px;
+    padding: 7px;
+  }
+  .d1{
+    border: 1px solid black;
+
+  }
+
 }
 .b7{
   margin: 30px;
@@ -39,3 +50,4 @@ padding: 7px;
 .a7{
   font-size: 30px;
 }
+ 

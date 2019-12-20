@@ -12,7 +12,7 @@ const Header  = () => {
    <Fade left>
 <div className='text-center a8'><i class="fa fa-graduation-cap" style={{ "margin": "7px"}}></i>IAS<span className='a7'>Bano</span>
 
-<button className='float-right btn-sm btn-info a2'>Page4</button>
+<button className='float-right btn-sm btn-info a2'>Login</button>
 <button className='float-right btn-sm btn-info a2 '>Page3</button>
 <button className='float-right btn-sm btn-info a2'>Page2</button>
 <button className='float-right btn-sm btn-info a2'>Page1</button>
